@@ -42,7 +42,7 @@ Python에서 작동하는 Selenium을 통해 Chrome 환경에서 렌더링되는
 ## **DIRECTORY TREE**
 
 > ```tree
-> ┌── main.py                         // This is the entry file for Shipping Crawler
+> ┌── main.py                         // This is the entry file
 > ```
 >    </br> > </br>
 
