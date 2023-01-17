@@ -39,6 +39,23 @@ Python에서 작동하는 Selenium을 통해 Chrome 환경에서 렌더링되는
 
 </br>
 
+### (optional) using virtual env
+
+```sh
+# generate venv
+python -m venv crawler
+```
+
+```sh
+# activate in linux
+source crawler/bin/activate
+
+# activate in windows
+source crawler/Scripts/activate
+```
+
+
+
 ## **DIRECTORY TREE**
 
 > ```tree
